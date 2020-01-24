@@ -1,3 +1,5 @@
+'I've rearranged this file, originally was a Turbo Pascal file
+'Nicely Pset a line pixel by pixel.
 DECLARE SUB PlotLine (x1 AS INTEGER, y1 AS INTEGER, x2 AS INTEGER, y2 AS INTEGER, colore AS INTEGER)
 DECLARE SUB Switch (x AS INTEGER, y AS INTEGER)
 
