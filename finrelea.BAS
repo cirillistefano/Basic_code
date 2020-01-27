@@ -64,7 +64,7 @@ SUB PlotLine (x1, y1, x2, y2, colore)
             IF b! <> 0 THEN
                 x = INT(((((y - a!) / b!) + .05) * 10) / 10)
             ELSE
-                x = 0
+                x = x1
             END IF
             PSET (x, y), colore
         NEXT y
