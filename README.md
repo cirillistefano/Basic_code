@@ -1,5 +1,4 @@
 # Basic_code
-Lover's of RetroComputing.
 
 
 
