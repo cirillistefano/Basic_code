@@ -7,4 +7,4 @@
 27-1-2020 Committing a change in finrelea.bas, now the file is OK, and it draws perfectly 
           vertical line(with same x).
           
-         My goal is code that can run a sail-race as i've seen during America's Cup. 
+        
