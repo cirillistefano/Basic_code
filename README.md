@@ -7,7 +7,7 @@
 27-1-2020 Committing a change in finrelea.bas, now the file is OK, and it draws perfectly 
           vertical line(with same x).
           
-30-5-2022 Added new file velabe01.bas          
+30-5-2022 Added new file velabe01.bas, my goal is to make a regatta game.          
 
 6-7-2022 New version of velabe01.bas
         
