@@ -11,5 +11,5 @@
 
 6-7-2022 New version of velabe01.bas
 
-12-12-2022 Added version 0.0.0-alpha of the regatta-like game
+12-12-2022 Added version 0.0.0-alpha of the regatta-like game(you need qb64 to run)
         
