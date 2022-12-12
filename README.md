@@ -10,4 +10,6 @@
 30-5-2022 Added new file velabe01.bas, my goal is to make a regatta game.          
 
 6-7-2022 New version of velabe01.bas
+
+12-12-2022 Added version 1.0.0-alpha of the regatta-like game
         
