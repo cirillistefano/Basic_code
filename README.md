@@ -5,7 +5,7 @@
 24-1-2020 QBasic 4.5; Added file finrelea.bas, nicely pset a line(pixel by pixel)
 
 27-1-2020 Committing a change in finrelea.bas, now the file is OK, and it draws perfectly 
-          vertical line(with same x).
+          vertical line(with same x), you can find the definitive version in the file plotline.bas.
           
 30-5-2022 Added new file velabe01.bas, my goal is to make a regatta game.          
 
