@@ -1,5 +1,5 @@
 'I've rearranged this file, originally it was a Turbo Pascal file
-'Nicely Psets a line pixel by pixel.
+'Not as do the LINE command in qbasic or qb64, it nicely Psets a line pixel by pixel.
 DECLARE SUB PlotLine (x1 AS INTEGER, y1 AS INTEGER, x2 AS INTEGER, y2 AS INTEGER, colore AS INTEGER)
 DECLARE SUB Switch (x AS INTEGER, y AS INTEGER)
 
