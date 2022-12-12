@@ -1,3 +1,6 @@
+' First version of my regatta-like game, more work is to be done, it's just a skeleton.
+' sxArrow and rightArrow during the on the wind way, upArrow and DownArrow for the downwind way.
+
 $Debug
 '60,60
 Data 1,1,1,14,14,14,14,1,1,1,1,1,1,1,1,1,1,1,1,1
@@ -53,21 +56,6 @@ Data 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Data 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Data 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Data 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 DECLARE FUNCTION rectRect% (r1x%, r1y%, r1w%, r1h%, r2x%, r2y%, r2w%, r2h%)
 DECLARE SUB PlotLine (x1 AS INTEGER, y1 AS INTEGER, x2 AS INTEGER, y2 AS INTEGER, colore AS INTEGER)
