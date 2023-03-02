@@ -15,4 +15,5 @@
 
 26-2-2023 Added version 0.0.1-alpha
 
-02-03-2023 Added version 0.1.1-alpha, with multikeys input
+02-03-2023 Added version 0.1.1-alpha, with multikeys input. Player 1 keys: Left and Right arrow, Up and Down arrow.
+Player 2 keys : "a" and "d"(left or right), and "w" and "s"(up or down).
